@@ -1,4 +1,4 @@
-# moducoin - 모두코인
+ # moducoin - 모두코인
 
 안녕하세요. 파생인의쉼터 말과의미(SK증권 서초센터 정광옥부장 / 010-5461-5111 / bestrs@naver.com) 입니다. 
 
@@ -44,6 +44,6 @@
 
 모두코인의 백서(White paper)는 파생인의쉼터 http://cafe.naver.com/fo24 와 
 
-모두코인 홈페이지 http://cafe.moducoin.net(현재 구축중)에 올려두겠습니다. 감사합니다.
+모두코인 홈페이지 http://cafe.moducoin.net (현재 구축중)에 올려두겠습니다. 감사합니다.
 
 
